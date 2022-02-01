@@ -8,7 +8,7 @@ html,body{
 	animation-fill-mode: forwards;
 }
 .jumbotron-header {
-	background: url("sl1.jpg") fixed;
+	background: url("images/sl1.jpg") fixed;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	height: 600px;	
@@ -136,7 +136,7 @@ html,body{
 	font-family: Garamond;
 }
 .treci{
-	background: url("sl1.jpg") fixed center;
+	background: url("images/sl1.jpg") fixed center;
 	background-size: cover;
 	height: 500px;	
 	margin-left: 0px;
